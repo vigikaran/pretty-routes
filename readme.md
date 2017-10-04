@@ -8,7 +8,7 @@ Visualise your routes in pretty format.
 # Installation
 
 ```bash
-composer require garygreen/pretty-routes
+composer require vigikaran/pretty-routes
 ```
 
 Add to your `config/app.php` providers array:
